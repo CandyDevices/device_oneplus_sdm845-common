@@ -108,6 +108,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     OnePlusDoze
 
+# fastbootd
+PRODUCT_PACKAGES += \
+    fastbootd
+
 # HIDL
 PRODUCT_PACKAGES += \
     libhidltransport \

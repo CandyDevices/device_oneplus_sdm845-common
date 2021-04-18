@@ -39,6 +39,9 @@ persist.vendor.color.matrix=2
 # DPM
 persist.vendor.dpm.feature=9
 
+# fastbootd
+ro.fastbootd.available=true
+
 # FOD - Disable mask layer
 vendor.display.disable_mask_layer_hint=1
 
