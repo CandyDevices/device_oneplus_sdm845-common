@@ -23,9 +23,6 @@ $(call inherit-product, vendor/oneplus/sdm845-common/sdm845-common-vendor.mk)
 # Inherit packages from vendor/google/camera
 $(call inherit-product-if-exists, vendor/google/camera/config.mk)
 
-# Inherit our vendor_gapps
-$(call inherit-product, vendor/gapps/config.mk)
-
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
