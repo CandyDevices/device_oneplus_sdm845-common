@@ -109,6 +109,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     fastbootd
 
+# Google Assistant
+PRODUCT_PRODUCT_PROPERTIES += ro.opa.eligible_device=true
+
 # HIDL
 PRODUCT_PACKAGES += \
     libhidltransport \
