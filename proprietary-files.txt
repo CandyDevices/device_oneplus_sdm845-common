@@ -53,9 +53,9 @@ lib/libOmxMux.so
 lib64/libmmosal.so
 
 # NFC
--app/NxpNfcNci/NxpNfcNci.apk|5d4398122b5fb3a5b8278dcf7bfb0154b552a40b
--app/NxpSecureElement/NxpSecureElement.apk
-etc/nfcee_access.xml|6621fa1927720008fc0bdf47d259b18c871c2c79
+-app/NxpNfcNci/NxpNfcNci.apk|02b51fcc43ef3213a458ac653c4757d833470794
+-app/NxpSecureElement/NxpSecureElement.apk|129eaa26ac7e2b29006dc6514b94184f18152ec9
+etc/nfcee_access.xml
 etc/permissions/com.nxp.nfc.xml
 framework/com.nxp.nfc.jar|41d92d0b7fdc3d50cd6ea4be8664614aa9d41823
 lib64/libnxpnfc_nci_jni.so
